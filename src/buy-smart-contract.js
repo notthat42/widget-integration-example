@@ -32,4 +32,11 @@ const wertWidget = new WertWidget({
   ...otherWidgetOptions,
 });
 
+
+const extra = {
+  item_info = {
+    author_image_url: https://wert.io/images/aboutUs/team/George%20Basiladze.png,
+  }
+}
+
 wertWidget.mount();
